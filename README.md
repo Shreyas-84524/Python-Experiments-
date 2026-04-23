@@ -1,2 +1,2 @@
-# Python-Experiments-
-This is the repository in which i am uploading all the codes that i have written during python practicals.
+# Python-Experiments
+This is the repository in which I am uploading all the code written during my Python practicals.
